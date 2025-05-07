@@ -38,7 +38,7 @@
 | RMSD                 | 4.2%     | Predictions ±4.2% error |
 | R²                   | -0.1435  | Baseline outperforms    |
 | Avg. Annual Return   | -7.32%   | Needs improvement      |
-| Annualized Volatility| 6.72%    | **↓57% vs S&P 500**    |
+| Annualized Volatility| 6.72%    | **Observed low volatility**    |
 | Sharpe Ratio         | -1.13    | Low risk, negative return |
 
 **Key Insight:** While returns were suboptimal, the model achieved **historically low volatility** (6.72% vs S&P’s 10–20%), providing a foundation for refinement.
